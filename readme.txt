@@ -1,2 +1,1 @@
-for git test
-learning git status
+learning git
