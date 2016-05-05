@@ -5,6 +5,7 @@ learning git
 3. cd git
 4. pwd
 5. git init
+6. ls -ah
 
 // create readme.txt file in git directory
 
