@@ -40,4 +40,10 @@ learning git
 22. git add readme.txt
 23. git commit -m "modify readme.txt"
 
-asdfasdf
+24. git log --pretty=oneline
+25. git reset --hard HEAD^
+26. git reflog
+27. git reset --hard 123456
+28. git reset --hard HEAD^^
+29. git reset --hard~100
+
