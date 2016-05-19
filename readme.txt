@@ -47,3 +47,4 @@ learning git
 28. git reset --hard HEAD^^
 29. git reset --hard HEAD~100
 
+30. 
