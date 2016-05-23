@@ -66,3 +66,9 @@ learning git
 42. git stash list
 43. git stash apply stash@{0}
 
+44. git remote -v
+45. git push origin branch-name
+46. git pull
+47. git branch --set-upstream branch-name origin/branch-name
+48. git checkout -b branch-name origin/branch-name
+
