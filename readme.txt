@@ -59,3 +59,10 @@ learning git
 
 37. git merge --no-ff -m "merge with no-ff" dev
 
+38. git stash
+39. git stash apply
+40. git stash drop
+41. git stash pop
+42. git stash list
+43. git stash apply stash@{0}
+
