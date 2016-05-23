@@ -55,3 +55,7 @@ learning git
 34. git branch develop
 35. git checkout develop
 
+36. git log --graph --pretty=oneline --abbrev-commit
+
+37. git merge --no-ff -m "merge with no-ff" dev
+
