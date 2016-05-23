@@ -47,4 +47,11 @@ learning git
 28. git reset --hard HEAD^^
 29. git reset --hard HEAD~100
 
-30. 
+30. git remote add origin https://github.com/hasayaki/git.git
+31. git clone https://github.com/hasayaki/java.git
+
+32. git checkout -b dev
+33. git branch
+34. git branch develop
+35. git checkout develop
+
