@@ -59,3 +59,28 @@ learning git
 
 37. git merge --no-ff -m "merge with no-ff" dev
 
+38. git stash
+39. git stash apply
+40. git stash drop
+41. git stash pop
+42. git stash list
+43. git stash apply stash@{0}
+
+44. git remote -v
+45. git push origin branch-name
+46. git pull
+47. git branch --set-upstream branch-name origin/branch-name
+48. git checkout -b branch-name origin/branch-name
+
+49. git tag
+50. git tag v0.1
+51. git tag v0.2 commit_id
+52. git show tag-name
+53. git tag -a tag-name -m "message" commit_id
+54. git tag -s tag-name -m "message" commit_id
+55. git tag -d tag-name
+56. git push origin <tagname>
+57. git push --tags
+58. git tag -d <tagname>
+59. git push origin :refs/tags/<tagname>
+
